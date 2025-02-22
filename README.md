@@ -4,7 +4,7 @@ My name is ERI, and I am aspiring to be a Web Engineer.<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finn-raft)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 ## Portfolio
-推しがナビになって作業時間を記録したり褒めてくれるポモドーロタイマーのWebアプリ『 [Pomodoro Navi](https://pomodoro-navi.com) 』<br><br>
+推しがナビになって作業時間を記録したり褒めてくれるポモドーロタイマーWebアプリ『 [Pomodoro Navi](https://pomodoro-navi.com) 』<br><br>
 [![Image from Gyazo](https://i.gyazo.com/4950a4515c407c7528adb57dc8f81170.png)](https://gyazo.com/4950a4515c407c7528adb57dc8f81170)<br><br>
 
 ## Activity
