@@ -1,5 +1,5 @@
 ## Profile
-My name is ERI, and I am aspiring to be a Web Engineer.<br><br>
+🔰 Web Engineer (2025.3〜)<br><br>
 📬️ My Notion Site : [MERIMO](https://glaze-collar-754.notion.site/MERIMO-fa830be66bde4f0989c50dcfa7872f10)（Study output and Blog）<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finn-raft)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
