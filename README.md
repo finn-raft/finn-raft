@@ -8,6 +8,7 @@
 [![Image from Gyazo](https://i.gyazo.com/4950a4515c407c7528adb57dc8f81170.png)](https://gyazo.com/4950a4515c407c7528adb57dc8f81170)<br><br>
 
 ## Activity
+- 2025.7 Oracle Certified Java Programmer, Silver SE17 合格
 - 2025.2 情報セキュリティマネジメント試験 合格<br>
 - 2024.8 RUNTEQ51期 卒業<br>
 - 2024.8 基本情報技術者試験 合格<br>
